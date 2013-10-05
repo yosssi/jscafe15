@@ -1,0 +1,64 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: none;
+  font-family: "Lato", Impact, sans-serif;
+}
+
+h2 {
+  line-height: 100px !important;
+}
+
+h3 {
+  line-height: 70px !important;
+  margin-bottom: 30px !important;
+}
+
+li {
+  line-height: 50px !important;
+  margin: 20px 0 !important;
+}
+
+img {
+  padding: 20px !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.margin-left-20 {
+  margin-left: 20px !important;
+}
+
+.vp-table {
+  font-size: 30px !important;
+}
+
+.vp-table {
+  border-collapse: collapse !important;
+}
+
+.vp-table th {
+  border-bottom: 1px solid #888 !important;
+}
+
+.vp-table th, .vp-table td {
+  padding: 0 10px;
+}
+
+.vp-table th:not(:last-child), .vp-table td:not(:last-child) {
+  border-right: 1px solid #888 !important;
+}
+
+strong {
+  font-size: 50px !important;
+}
+
+pre {
+  padding: 0 !important;
+  margin: 0 !important;
+  width: 100% !important;
+  font-size: 24px !important;
+}
